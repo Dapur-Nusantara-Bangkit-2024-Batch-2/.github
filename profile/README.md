@@ -29,7 +29,7 @@ As a result, the number of calories entering the body is often uncontrolled. The
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [Github](https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/mobile-development) |
-|  Cloud Computing  | [Github]()  |
+|  Cloud Computing  | [Github](https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/cloud-computing)  |
 |   Machine Learning  | [Github]()  |
 
 # Project Documents
