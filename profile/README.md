@@ -19,7 +19,7 @@ As a result, the number of calories entering the body is often uncontrolled. The
 | M320D4KY2942      | David Bryan Christiansen   | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/davidbryanc/) | [@davidbryanc](https://github.com/davidbryanc) | Active |
 | M010D4KY3200      | Dhia Religio Musyaffa Mukarob P          | Machine Learning    | [LinkedIn](https://www.linkedin.com/in/dhiareligio/) | [@giomusyaffa](https://github.com/giomusyaffa) | Active |
 | C006D4KY0336      | Zuhud Ulin Nuha     | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/zuhud-ulin-nuha/) | [@avoirchen](https://github.com/avoirchen) | Active |
-| C006D4KY0391      | Muhammad Irfan Zaidan             | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/mirfanzaidann/) | - | Active |
+| C006D4KY0391      | Muhammad Irfan Zaidan             | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/mirfanzaidann/) | [@Irfanzaidann](https://github.com/Irfanzaidann) | Active |
 | A429D4KY3981       | Galih Rakasiwi              | Mobile Development | [LinkedIn](https://www.linkedin.com/in/galih-rakasiwi-25a5842a4/) | [@arunikaroscent](https://github.com/arunikaroscent) | Active |
 | A006D4KY4138       | M. Rezky Revansyah Suprihono | Mobile Development   | [LinkedIn](https://www.linkedin.com/in/rezkyrevansyah/) | [@rezkyrevansyah](https://github.com/rezkyrevansyah) | Active |
 
