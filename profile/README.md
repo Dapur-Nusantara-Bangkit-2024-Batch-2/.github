@@ -15,7 +15,7 @@ As a result, the number of calories entering the body is often uncontrolled. The
   
 | Bangkit ID       |           Name            |   Learning Path    | LinkedIn Profile | Github | Status |
 |:----------------:|---------------------------|:------------------:|:-----------------------------------------:|-------------------------------------------------------------------|:---------------------------------|
-| M010D4KX2032      | Nisrina Nurkhomsatun Purnomo  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/nisrinanpurnomo/) | [@aosouoz](https://github.com/asouoz) | Active |
+| M010D4KX2032      | Nisrina Nurkhomsatun Purnomo  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/nisrinanpurnomo/) | [@asouoz](https://github.com/asouoz) | Active |
 | M320D4KY2942      | David Bryan Christiansen   | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/davidbryanc/) | [@davidbryanc](https://github.com/davidbryanc) | Active |
 | M010D4KY3200      | Dhia Religio Musyaffa Mukarob P          | Machine Learning    | [LinkedIn](https://www.linkedin.com/in/dhiareligio/) | [@giomusyaffa](https://github.com/giomusyaffa) | Active |
 | C006D4KY0336      | Zuhud Ulin Nuha     | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/zuhud-ulin-nuha/) | [@avoirchen](https://github.com/avoirchen) | Active |
