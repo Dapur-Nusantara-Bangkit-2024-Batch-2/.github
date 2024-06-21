@@ -25,6 +25,11 @@ As a result, the number of calories entering the body is often uncontrolled. The
 
 </div>
 
+# Application Mockup
+<div align="center">
+  <img src="https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/.github/blob/main/profile/assets/mockup.png" alt="Logo NutriKita" style="width: 70%;">
+</div>
+
 # Project Documentation
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
